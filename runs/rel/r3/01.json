@@ -1,0 +1,92 @@
+{
+  "format": "tax-intake-workbook/v1",
+  "exported": "2026-09-24T15:33:03.446Z",
+  "meta": {
+    "client": "Marisol & Theo Varga",
+    "tin": "4417",
+    "summary": "Married couple needing 2025 return prep covering W-2 wages, Theo's furniture Schedule C business, new duplex rental (Schedule E), dependent care credit, and a response to a TY2023 CP2000 notice claiming $6,840 tax plus $1,368 penalty.",
+    "year": "2025",
+    "stage": "Initial interview"
+  },
+  "choices": {
+    "applies:1": "Yes",
+    "events": [
+      "Moved",
+      "Bought a home"
+    ],
+    "status": "Married filing jointly",
+    "divorce": "No",
+    "hasdeps": "Yes",
+    "incsrc": [
+      "Wages",
+      "Side business",
+      "Rental"
+    ],
+    "itemize": "Not sure yet",
+    "care": "Yes",
+    "applies:2": "Yes",
+    "sellsgoods": "Yes",
+    "method": "Cash",
+    "qjv": "No",
+    "gaps": "Yes",
+    "channels": [
+      "Online marketplace",
+      "In person",
+      "Wholesale"
+    ],
+    "exptypes": [
+      "Vehicle",
+      "Home office",
+      "Equipment"
+    ],
+    "paidest": "Yes",
+    "plan": "No",
+    "homeoffice": "Yes"
+  },
+  "answers": {
+    "1.1.1.1.1:0": "Married filing jointly all year. Moved from 1418 Alder St, Unit B, Sacramento CA 95818 (until May 30) to 2207 Juniper Way, Sacramento CA 95822 (from May 31).",
+    "1.1:notes": "Bought a duplex in June; family lives in Unit B from May 31, Unit A rented starting 7/1/2025. Theo started selling wholesale this year. Prior year (2024) filed jointly, refund $1,140. CP2000 received for TY2023, response due - proposed tax $6,840 plus $1,368 penalty; client says Etsy gross included sales tax and refunds. Need signed Form 2848 for 2023 and 2025.",
+    "1.2.2.1.2:0": "Prior year (2024) refund was $1,140; itemization status for that year not stated in file.",
+    "1.2:notes": "W-2 Box 10 dependent care benefit $2,500. Schedule C for Varga Woodworks: Etsy 1099-K gross $43,112 (includes $2,114 sales tax collected by Etsy), Square 1099-K $9,540, cash sales $1,260, wholesale $6,800, Etsy refunds $(1,380). Expenses: materials $14,930, Etsy/Square fees $4,470, booth fees $1,925, tools bought (bandsaw 3/12/2025, dust collector 8/4/2025) $4,180, vehicle 6,240 business mi of 14,900 total (log kept), home workshop garage 420 sq ft of 1,850 sq ft home (simplified method). Schedule E: duplex purchased 6/12/2025 for $612,000, land allocation 30%, Unit A rented from 7/1/2025 at $2,150/month ($12,900 total), property tax $4,410, insurance $1,980 (full duplex), repairs (Unit A water heater) $1,640; shared costs split 50/50 by square footage. CP2000 for TY2023: proposed tax $6,840 plus $1,368 penalty, response due; need Etsy monthly statements for 2023 to rebuild reconciliation.",
+    "1.3.1.1.1:0": "Mortgage interest (1098) total 2025 $19,860; allocate 50% to rental unit. Lender not stated.",
+    "1.3.1.1.2:0": "Property tax (supplemental and regular bills) total $4,410. CA state withholding $4,310 (Box 17).",
+    "1.3.1.2.1:0": "Cash to church $2,400, receipt on file.",
+    "1.3:notes": "Childcare: Little Sprouts Daycare, EIN XX-XXX8820, $7,800 (Form 2441). Estimated taxes paid $2,000 on 6/16/2025 and $2,000 on 9/15/2025, total $4,000. Need settlement statement from duplex purchase and beginning/ending lumber inventory counts.",
+    "1.1.1.1.1:1": "Theo Varga, SSN ending 2291, self-employed furniture maker, age 43",
+    "1.1.2.1.1:0": "Ines Varga, age 9, lived in home 12 months; Pablo Varga, age 6, lived in home 12 months",
+    "1.1.3.2.1:0": "Duplex closed 6/12/2025, price $612,000, land allocation 30%. Settlement statement not yet on file (open item to request from client).",
+    "1.1.3.2.3:0": "Old address: 1418 Alder St, Unit B, Sacramento CA 95818; new address: 2207 Juniper Way, Sacramento CA 95822; move date May 30/31, same state (California)",
+    "1.2.1.1.1:0": "Kaiser Permanente (W-2), California",
+    "1.2.3.1.3:0": "W-2 federal withheld $9,850; estimated taxes paid $2,000 on 6/16/2025 and $2,000 on 9/15/2025 (total $4,000)",
+    "1.2.3.1.3:1": "Vehicle: 2019 Ford Transit, 6,240 business mi of 14,900 total mi, log kept. Home office: garage workshop, 420 sq ft of 1,850 sq ft home, exclusive use, simplified method.",
+    "1.2.3.1.4:0": "Self-Employed (Schedule C - Varga Woodworks), Real Estate (Schedule E - duplex rental)",
+    "1.2.3.1.4:1": "Etsy 1099-K, Square 1099-K, Form 1098 mortgage interest statement",
+    "1.1.2.1.2:0": "Little Sprouts Daycare, EIN XX-XXX8820, $7,800",
+    "1.1.2.1.2:1": "Box 10 dependent care $2,500 (Kaiser Permanente W-2)",
+    "2.1.1.1.1:0": "Varga Woodworks, sole proprietor",
+    "2.1.1.1.1:1": "Principal business code 337000",
+    "2.1.1.2.1:0": "Theo Varga (SSN ending 2291), self-employed furniture maker, age 43, sole proprietor",
+    "2.1.2.1.1:0": "Books kept in a spreadsheet",
+    "2.1.2.1.1:1": "Etsy and Square deposits go to one business checking account",
+    "2.2.1.1.1:0": "Etsy 1099-K gross (includes $2,114 sales tax Etsy collected) $43,112; Square 1099-K craft fair card sales $9,540",
+    "2.2.1.1.1:1": "Etsy refunds $(1,380)",
+    "2.2.1.1.2:0": "Wholesale, two shops, paid by check $6,800; Cash sales per ledger $1,260",
+    "2.2.1.1.2:1": "Etsy gross includes $2,114 sales tax Etsy collected; needs reconciliation against books",
+    "2.2:notes": "Materials and hardware (lumber, finishes, hardware) $14,930; Etsy and Square fees $4,470; Booth fees (seven fairs) $1,925; Tools bought: bandsaw 3/12/2025, dust collector 8/4/2025, $4,180; Vehicle: 2019 Ford Transit, 6,240 business mi of 14,900 total, log kept; Home workshop: garage, 420 sq ft of 1,850 sq ft home, exclusive use, simplified method; open item - beginning and ending lumber inventory counts needed",
+    "2.3:notes": "Estimated taxes paid 6/16 and 9/15/2025, $2,000 each, total $4,000; CP2000 for TY2023: proposed tax $6,840 plus $1,368 penalty, response due, client says Etsy gross included sales tax and refunds",
+    "2.1.2.1.2:1": "Client plans to obtain Etsy monthly statements for 2023 to rebuild the CP2000 reconciliation",
+    "2.2.1.1.3:0": "Etsy 1099-K gross $43,112; Square 1099-K (craft fair card sales) $9,540",
+    "2.2.1.1.3:1": "$2,114 sales tax included in Etsy 1099-K gross",
+    "2.2.1.1.4:0": "Square 1099-K craft fair card sales $9,540; cash sales per ledger $1,260",
+    "2.2.1.1.4:1": "Seven fairs (booth fees $1,925)",
+    "2.2.1.1.5:1": "Two shops, paid by check, $6,800",
+    "2.2.1.1.6:0": "Etsy and Square deposits go to one business checking account",
+    "2.2.1.1.6:1": "Etsy and Square fees per platform statements $4,470",
+    "2.2.1.2.1:0": "Beginning and ending lumber inventory counts needed from client (open item)",
+    "2.2.1.2.1:1": "Materials and hardware: lumber, finishes, hardware $14,930",
+    "2.2.2.1.1:0": "2019 Ford Transit: 6,240 business miles of 14,900 total miles, log kept",
+    "2.2.2.2.2:0": "Bandsaw placed in service 3/12/2025, dust collector placed in service 8/4/2025, total $4,180",
+    "2.3.1.1.1:0": "Paid 6/16/2025 and 9/15/2025, $2,000 each, total $4,000"
+  },
+  "added": {}
+}

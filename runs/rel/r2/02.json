@@ -1,0 +1,66 @@
+{
+  "format": "tax-intake-workbook/v1",
+  "exported": "2026-09-24T15:26:07.407Z",
+  "meta": {
+    "client": "Priya Raman",
+    "tin": "6021",
+    "summary": "Priya Raman is a software engineer with W-2 wages including RSU vesting, ESPP shares, brokerage investment income, and digital asset (crypto) transactions who needs a 2025 tax return prepared covering Schedule D/Form 8949 capital gains and losses (including a wash sale and RSU basis adjustment), Schedule B interest and dividends, and reporting of Coinbase and self-custody wallet crypto activity.",
+    "year": "2025",
+    "stage": "Initial interview"
+  },
+  "choices": {
+    "applies:1": "Yes",
+    "status": "Single",
+    "divorce": "No",
+    "hasdeps": "No",
+    "incsrc": [
+      "Wages",
+      "Investments"
+    ],
+    "applies:2": "No",
+    "applies:3": "No",
+    "applies:4": "No",
+    "applies:5": "No",
+    "applies:6": "No",
+    "applies:7": "No",
+    "applies:8": "No",
+    "applies:9": "Yes",
+    "invtypes": [
+      "Stocks",
+      "Mutual funds or ETFs",
+      "Employer stock",
+      "Crypto"
+    ],
+    "washsale": "Yes",
+    "equity": "Yes",
+    "crypto": "Yes",
+    "carry": "Yes",
+    "applies:10": "No",
+    "applies:11": "No",
+    "applies:12": "No"
+  },
+  "answers": {
+    "1.1.1.1.1:0": "Single, no life events this year",
+    "1.1:notes": "SSN ending 6021; resides in Seattle, WA (no state income tax); no dependents; no life events noted\nFull address: 811 Pike St #1204, Seattle WA 98101; Taxpayer age 33",
+    "1.2:notes": "Capital loss carryover from 2024: $4,200 short-term. RSU sales: proceeds $58,210, reported basis $0 must be adjusted to FMV at vest of $55,960. Tech stock sale at loss $(2,870) on 3/3/2025 is a wash sale (rebought same stock 3/20/2025) - loss disallowed. ESPP disqualifying disposition: bought 180 shares 5/30/2025 at $68.00 (FMV $80.00), sold 11/14/2025 at $91.25 for $16,425. RSUs: 412 shares vested across 4 dates, 22% withheld via share sale (included in W-2). Staking rewards of $486 (ETH on Coinbase) taxable as income. Wallet transfer of 1.5 ETH to Ledger wallet is not a taxable event. Need RSU vest-date share prices, Coinbase CSV export, Ledger wallet address history, and 2024 return to confirm carryover.\nW-2 Box 1 wages 241,300; W-2 Box 2 federal withheld 44,900; W-2 Box 12 code D (401(k)) 23,500",
+    "1.2.1.1.1:0": "Northwind Cloud Inc., Washington (no state income tax)",
+    "1.2.1.1.1:1": "RSUs: 412 shares vested across 4 dates; 22% withheld via share sale (included in W-2)",
+    "1.2.3.1.4:0": "Investments",
+    "1.2.3.1.4:1": "Fidelity 1099-B, 1099-DIV, 1099-INT, Form 3922, Coinbase 1099-DA",
+    "9.1.1.1.1:0": "Fidelity 1099-B: RSU sales proceeds $58,210; Index ETF proceeds $12,400, basis $9,100 (LT gain, held 3 years); Tech stock sold at loss $(2,870). Dividends (1099-DIV) ordinary $1,940. Interest (1099-INT) high-yield savings $2,315.",
+    "9.1.1.1.1:1": "RSU sales: reported basis $0, must adjust to FMV at vest $55,960",
+    "9.1.1.1.2:0": "Tech stock sold 3/3/2025 at a loss of $(2,870), rebought same stock 3/20/2025 - wash sale, loss disallowed",
+    "9.1.1.2.1:0": "Ordinary dividends $1,940, of which qualified $1,610",
+    "9.1:notes": "ESPP disqualifying disposition: bought 180 shares 5/30/2025 at $68.00 (FMV $80.00), sold 11/14/2025 at $91.25, proceeds $16,425",
+    "9.2:notes": "BTC sale: proceeds $29,760, basis $18,400, ST gain. ETH sale: proceeds $10,290, basis $13,020, ST loss. ETH staking rewards on Coinbase, FMV when received $486 (ordinary income). Wallet transfer of 1.5 ETH to Ledger wallet - not a taxable sale.",
+    "9.3:notes": "2024 return needed to confirm $4,200 short-term capital loss carryover",
+    "9.1.2.1.1:0": "RSUs: 412 shares vested across 4 dates; 22% withheld via share sale (in W-2). ESPP: Bought 180 shares 5/30/2025 at $68.00, FMV $80.00 (qualifying). Sold 180 shares 11/14/2025 at $91.25 (disqualifying), proceeds $16,425.",
+    "9.2.1.1.1:0": "Coinbase (exchange) and a self-custody Ledger wallet; moved 1.5 ETH to Ledger wallet (not a sale, no tax)",
+    "9.2.1.1.1:1": "Coinbase transaction export (CSV) for basis check - still needed from client",
+    "9.2.1.1.2:0": "BTC sale: 0.31 BTC sold 2/9/2025, proceeds $29,760, basis $18,400, ST gain. ETH sale: 4.2 ETH sold 10/1/2025, proceeds $10,290, basis $13,020, ST loss.",
+    "9.2.1.2.1:0": "Staking rewards: ETH staking on Coinbase, FMV when received $486",
+    "9.3.1.1.1:0": "Capital loss carryover from 2024: $4,200 short-term",
+    "9.4:notes": "RSU sale needs basis adjustment: proceeds $58,210, reported basis $0, must adjust to FMV at vest $55,960. Index ETF: proceeds $12,400, basis $9,100, held 3 years, LT gain. Tech stock: sold 3/3/2025 at loss $(2,870), rebought same stock 3/20/2025 - wash sale."
+  },
+  "added": {}
+}
